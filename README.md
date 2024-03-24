@@ -1,3 +1,7 @@
+# Note Taker
+
+[![GitHub License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # Note-Taker
 
 ## User Story
@@ -26,3 +30,53 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
 
+
+
+## Description
+
+In this challenge, I am tested on my knowledge of express.js to build a note taking app that can be used to write and save notes.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Multi](#multi)
+- [Tests](#tests)
+- [Contributors](#contributors)
+- [Screenshot](#screenshot)
+- [Questions](#questions)
+[License](#license)
+
+## Installation
+
+- Clone the Repository from Github 
+- Open in source code editor (ex. VS Code)
+- Open in integrated terminal for the document
+
+## Usage
+
+Javascript
+
+## Multi
+
+N/A
+
+## Tests
+
+NPM
+
+## Contributors
+
+N/A
+
+## Screenshot
+
+![alt-text](TBD)
+
+## Questions
+
+For questions about the project, you can reach me at [Kibarkework@gmail.com](mailto:Kibarkework@gmail.com).
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
