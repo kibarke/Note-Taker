@@ -53,13 +53,18 @@ In this challenge, I am tested on my knowledge of express.js to build a note tak
 - Open in source code editor (ex. VS Code)
 - Open in integrated terminal for the document
 
-## Usage
+## Usage Instructions
 
-Javascript
+1. Click here to open the Deployed Application Link:
+2. Click "Get Started" to open the note taker.
+3. Enter text into the 'title' and 'text' fields
+4. Click the save icon (top right) to save the note.
+5. Click the + icon (top right) to add another note.
+6. Additional: Click the trash icon to delete saved notes.
 
 ## Multi
 
-N/A
+- JavaScript
 
 ## Tests
 
